@@ -18,11 +18,6 @@
 
 
 ## Google Colab Demo
-https://github.com/guanyuhoujeff/114_NKUST_Financial_Institution_Management.git
-
-114_NKUST_Financial_Institution_Management\colab
-
-
 data preprocessing : 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/114_NKUST_Financial_Institution_Management/blob/main/colab/data_preprocessing.ipynb) [檔案連結](https://github.com/guanyuhoujeff/114_NKUST_Financial_Institution_Management/tree/main/colab/data_preprocessing.ipynb)
 
