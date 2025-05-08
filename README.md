@@ -24,13 +24,13 @@ https://github.com/guanyuhoujeff/114_NKUST_Financial_Institution_Management.git
 
 
 data preprocessing : 
-[檔案連結](https://github.com/guanyuhoujeff/114_NKUST_Financial_Institution_Management/tree/main/colab) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/114_NKUST_Financial_Institution_Management/blob/main/colab/data_preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/114_NKUST_Financial_Institution_Management/blob/main/colab/data_preprocessing.ipynb) [檔案連結](https://github.com/guanyuhoujeff/114_NKUST_Financial_Institution_Management/tree/main/colab/data_preprocessing.ipynb)
 
 VAR model : 
-[檔案連結](https://github.com/guanyuhoujeff/114_NKUST_Financial_Institution_Management/tree/main/colab) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/114_NKUST_Financial_Institution_Management/blob/main/colab/VAR_model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/114_NKUST_Financial_Institution_Management/blob/main/colab/VAR_model.ipynb) [檔案連結](https://github.com/guanyuhoujeff/114_NKUST_Financial_Institution_Management/tree/main/colab/VAR_model.ipynb) 
 
 DCC-GRACH model [open with R-Kernal] : 
-[檔案連結](https://github.com/guanyuhoujeff/114_NKUST_Financial_Institution_Management/tree/main/colab) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/114_NKUST_Financial_Institution_Management/blob/main/colab/[r-kernal]_DCC _ARCH.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/114_NKUST_Financial_Institution_Management/blob/main/colab/r_kernal_DCC _ARCH.ipynb) [檔案連結](https://github.com/guanyuhoujeff/114_NKUST_Financial_Institution_Management/tree/main/colab/r_kernal_DCC _ARCH.ipynb) 
 
 
 # 在本地端運行
