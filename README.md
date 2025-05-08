@@ -30,7 +30,7 @@ VAR model :
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/114_NKUST_Financial_Institution_Management/blob/main/colab/VAR_model.ipynb) [檔案連結](https://github.com/guanyuhoujeff/114_NKUST_Financial_Institution_Management/tree/main/colab/VAR_model.ipynb) 
 
 DCC-GRACH model [open with R-Kernal] : 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/114_NKUST_Financial_Institution_Management/blob/main/colab/r_kernal_DCC _ARCH.ipynb) [檔案連結](https://github.com/guanyuhoujeff/114_NKUST_Financial_Institution_Management/tree/main/colab/r_kernal_DCC _ARCH.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/guanyuhoujeff/114_NKUST_Financial_Institution_Management/blob/main/colab/r_kernal_DCC_ARCH.ipynb) [檔案連結](https://github.com/guanyuhoujeff/114_NKUST_Financial_Institution_Management/tree/main/colab/r_kernal_DCC_ARCH.ipynb) 
 
 
 # 在本地端運行
